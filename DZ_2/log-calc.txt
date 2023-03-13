@@ -1,0 +1,6 @@
+мар. 13, 2023 12:46:44 PM DZ_2.task3 main
+INFO: 4 + 3 = 7
+мар. 13, 2023 12:57:47 PM DZ_2.task3 main
+INFO: 3 * 2 = 6
+мар. 13, 2023 12:59:20 PM DZ_2.task3 main
+INFO: 6 + 2 = 8

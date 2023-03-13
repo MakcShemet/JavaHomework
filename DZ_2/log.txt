@@ -1,0 +1,16 @@
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 1 in array [1, 6, 2, 8, 5, 3, 9, 7, 4]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 2 in array [1, 2, 6, 8, 5, 3, 9, 7, 4]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 3 in array [1, 2, 3, 8, 6, 5, 9, 7, 4]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 4 in array [1, 2, 3, 4, 8, 6, 9, 7, 5]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 5 in array [1, 2, 3, 4, 5, 8, 9, 7, 6]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 6 in array [1, 2, 3, 4, 5, 6, 9, 8, 7]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 7 in array [1, 2, 3, 4, 5, 6, 7, 9, 8]
+мар. 09, 2023 3:06:41 AM DZ_2.task1 main
+INFO: Sorted element 8 in array [1, 2, 3, 4, 5, 6, 7, 8, 9]
